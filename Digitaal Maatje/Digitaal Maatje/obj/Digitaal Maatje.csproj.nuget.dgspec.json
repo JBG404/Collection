@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\teren\\RiderProjects\\Digitaal Maatje\\Digitaal Maatje\\Digitaal Maatje.csproj": {}
+    "C:\\curio\\GIT\\Collection\\Digitaal Maatje\\Digitaal Maatje\\Digitaal Maatje.csproj": {}
   },
   "projects": {
-    "C:\\Users\\teren\\RiderProjects\\Digitaal Maatje\\Digitaal Maatje\\Digitaal Maatje.csproj": {
+    "C:\\curio\\GIT\\Collection\\Digitaal Maatje\\Digitaal Maatje\\Digitaal Maatje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\teren\\RiderProjects\\Digitaal Maatje\\Digitaal Maatje\\Digitaal Maatje.csproj",
+        "projectUniqueName": "C:\\curio\\GIT\\Collection\\Digitaal Maatje\\Digitaal Maatje\\Digitaal Maatje.csproj",
         "projectName": "Digitaal Maatje",
-        "projectPath": "C:\\Users\\teren\\RiderProjects\\Digitaal Maatje\\Digitaal Maatje\\Digitaal Maatje.csproj",
-        "packagesPath": "C:\\Users\\teren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\teren\\RiderProjects\\Digitaal Maatje\\Digitaal Maatje\\obj\\",
+        "projectPath": "C:\\curio\\GIT\\Collection\\Digitaal Maatje\\Digitaal Maatje\\Digitaal Maatje.csproj",
+        "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
+        "outputPath": "C:\\curio\\GIT\\Collection\\Digitaal Maatje\\Digitaal Maatje\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\teren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
